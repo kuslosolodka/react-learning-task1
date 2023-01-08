@@ -1,0 +1,17 @@
+{
+  "name": "Mariia H",
+  "hobbies": ["sports", "reading", "computer programming"],
+  "workingExperience": [1, "sales consultant"],
+  "skills": {
+    "code": {
+      "html": 4,
+      "css": 4,
+      "js": 4.5,
+      "react": 2
+    },
+    "languages": {
+      "english": 5
+    }
+  },
+  "email": "mail@email.ua"
+}
